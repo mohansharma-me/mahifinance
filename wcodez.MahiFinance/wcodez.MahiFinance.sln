@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wcodez.MahiFinance", "wcodez.MahiFinance\wcodez.MahiFinance.csproj", "{F3269548-4008-4301-A513-7322233CC94F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "launcher", "launcher\launcher.csproj", "{A816149A-AF92-48A9-9109-66E79F88BC4D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MahiFinanceSetup", "MahiFinanceSetup\MahiFinanceSetup.vdproj", "{F5109787-A34D-4634-8BAC-17CE7DDB257C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3269548-4008-4301-A513-7322233CC94F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3269548-4008-4301-A513-7322233CC94F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3269548-4008-4301-A513-7322233CC94F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3269548-4008-4301-A513-7322233CC94F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A816149A-AF92-48A9-9109-66E79F88BC4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A816149A-AF92-48A9-9109-66E79F88BC4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A816149A-AF92-48A9-9109-66E79F88BC4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A816149A-AF92-48A9-9109-66E79F88BC4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5109787-A34D-4634-8BAC-17CE7DDB257C}.Debug|Any CPU.ActiveCfg = Debug
+		{F5109787-A34D-4634-8BAC-17CE7DDB257C}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
